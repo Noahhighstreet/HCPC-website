@@ -3,7 +3,7 @@ Structuur van de website
 
 De website is opgebouwd uit meerdere HTML-pagina's die via een navigatiebalk met elkaar verbonden zijn:
 
-- HCPC.html (Home)
+- index.html (Home)
 - missie.html
 - product.html
 - overons.html
